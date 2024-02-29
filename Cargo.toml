@@ -1,0 +1,7 @@
+[package]
+name = "catenary-mobile-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ribir = "0.1.0-beta.7"
